@@ -1,6 +1,6 @@
 {
     "name": "bgcolor/rabbitmq",
-    "description": "My packaging for rabbitmq depending with phpamqplib",
+    "description": "My package for rabbitmq depending on php-amqplib",
     "type": "library",
     "require": {
         "php-amqplib/php-amqplib": "^2.6"
