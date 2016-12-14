@@ -16,6 +16,5 @@
         "psr-0": {
             "bgcolor\\rabbitmq": "src/"
         }
-    },
-    "minimum-stability": "stable"
+    }
 }
