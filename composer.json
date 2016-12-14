@@ -13,8 +13,8 @@
         }
     ],
     "autoload": {
-        "psr-0": {
-            "bgcolor\\rabbitmq": "src/"
+        "psr-4": {
+            "bgcolor\\rabbitmq\\": "src/"
         }
     }
 }
