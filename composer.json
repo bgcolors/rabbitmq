@@ -1,0 +1,16 @@
+{
+    "name": "bgcolor/rabbitmq",
+    "description": "My packaging for rabbitmq depending with phpamqplib",
+    "type": "library",
+    "require": {
+        "php-amqplib/php-amqplib": "^2.6"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "bgcolor",
+            "email": "493046077@qq.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
