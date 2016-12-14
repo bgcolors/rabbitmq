@@ -12,5 +12,10 @@
             "email": "493046077@qq.com"
         }
     ],
+    "autoload": {
+        "psr-0": {
+            "bgcolor\\rabbitmq": "src/"
+        }
+    },
     "minimum-stability": "stable"
 }
