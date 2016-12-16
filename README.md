@@ -1,4 +1,4 @@
-##bgcolor/Rabbitmq
+##bgcolor/rabbitmq
 
 My package for rabbitmq depending on php-amqplib
 
